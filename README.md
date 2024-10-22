@@ -7,6 +7,12 @@
 
 - 📫 How to reach me **ramyayadav515@gmail.com**
 
+<h3 align="left">About Me:</h3>
+  Hello.I'm Ramya ,a curious and enthusiastic student craving to learn a bit more everyday.I am well versed with computer science fundamentals like OOPS, Operating system,Database Management System.I am motivated to leverage technology to drive innovation and create a meaningful impact.
+
+
+Let’s connect and collaborate on exciting projects! 🚀
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dokku-ramya-784815319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dokku-ramya-784815319" height="30" width="40" /></a>
